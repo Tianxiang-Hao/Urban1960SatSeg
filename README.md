@@ -2,7 +2,7 @@
 ## 🌍 Overview
 
 ## 📊 Datasets
-
+![image](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/Intro.png)
 ## 🔧 How to use
 ### Data preparation
 To access the full dataset, you can download it from:
