@@ -1,4 +1,4 @@
-# WakeupUrban: Unsupervised Semantic Segmentation of Mid-20<sup>th</sup> century Urban Landscapes with Satellite Imageries
+# Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20<sup>th</sup> century Urban Landscapes with Satellite Imageries
 ## 🌍 Overview
 ![image](https://github.com/Tianxiang-Hao/WakeupUrban/blob/main/pictures/Intro.png)
 ## 📊 Datasets
