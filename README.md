@@ -35,5 +35,7 @@ Note: This version is the next iteration after optimizing the details in the art
 
 ## 📢 Reference & Statement
 The architecture of the Model is mainly referenced from [Primaps](https://github.com/visinf/primaps). 
+
 All experiments are carried out on NVIDIA 4090.
+
 Urban1960SatSeg will be continuously updated to include additional locations, time periods, and other categories, supporting broader research on early urban development processes and image segmentation.
