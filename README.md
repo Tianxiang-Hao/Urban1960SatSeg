@@ -36,7 +36,7 @@ Note: This version is the next iteration after optimizing the details in the art
 ### Model details will be announced soon...
 
 ## 📢 Reference & Statement
-The architecture of the Model is mainly referenced from [Primaps](https://github.com/visinf/primaps). 
+The architecture of the Model is mainly referenced from [Dino](https://github.com/facebookresearch/dino),[Dinov2](https://github.com/facebookresearch/dinov2), [SAM2](https://github.com/facebookresearch/sam2) and [Primaps](https://github.com/visinf/primaps). 
 
 All experiments are carried out on NVIDIA 4090.
 
