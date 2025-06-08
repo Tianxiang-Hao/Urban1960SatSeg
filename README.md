@@ -26,7 +26,7 @@ To access the full dataset, you can download it from:[🔗 Urban1960SatBench](ht
 
 The usage examples of the data are in the Python files [Urban1960SatSS](https://github.com/Tianxiang-Hao/Urban1960SatSeg/blob/main/datasets/urbanss.py) and [Urban1960SatISP](https://github.com/Tianxiang-Hao/Urban1960SatSeg/blob/main/datasets/urbanisp.py)
 
-Note: This version is the next iteration after optimizing the details in the article, and there are slight differences in the model results.
+Note: This version is the next iteration after optimizing the details in the article, and there are slight differences in the paper version.
 
 ## 📊 Model
 <div align="center">
