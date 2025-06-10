@@ -41,3 +41,19 @@ The architecture of the Model is mainly referenced from [Dino](https://github.co
 All experiments are carried out on NVIDIA 4090.
 
 Urban1960SatSeg will be continuously updated to include additional locations, time periods, and other categories, supporting broader research on early urban development processes and image segmentation.
+
+## Citing Urban1960SatSeg
+
+If you find this datasets or repository useful, please consider giving a star :star: and citation :t-rex::
+
+```
+@data{DVN/HT2B1S_2025,
+author = {Hao, Tianxiang and Zhang,Lixian and Zhang,Yingjia and Chen, Mengxuan and Zhang,Jinxiao and Fu,Haohuan},
+publisher = {Harvard Dataverse},
+title = {{Urban1960SatBench}},
+year = {2025},
+version = {V1},
+doi = {10.7910/DVN/HT2B1S},
+url = {https://doi.org/10.7910/DVN/HT2B1S}
+}
+```
