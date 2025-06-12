@@ -47,6 +47,15 @@ Urban1960SatSeg will be continuously updated to include additional locations, ti
 If you find this datasets or repository useful, please consider giving a star :star: and citation :t-rex::
 
 ```
+@misc{hao2025urban1960satsegunsupervisedsemanticsegmentation,
+      title={Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20$^{th}$ century Urban Landscapes with Satellite Imageries}, 
+      author={Tianxiang Hao and Lixian Zhang and Yingjia Zhang and Mengxuan Chen and Jinxiao Zhang and Haohuan Fu},
+      year={2025},
+      eprint={2506.09476},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2506.09476}, 
+}
 @data{DVN/HT2B1S_2025,
 author = {Hao, Tianxiang and Zhang,Lixian and Zhang,Yingjia and Chen, Mengxuan and Zhang,Jinxiao and Fu,Haohuan},
 publisher = {Harvard Dataverse},
