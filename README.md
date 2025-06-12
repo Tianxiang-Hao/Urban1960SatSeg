@@ -1,5 +1,5 @@
 # Urban1960SatSeg: Unsupervised Semantic Segmentation of Mid-20<sup>th</sup> century Urban Landscapes with Satellite Imageries
-The appendix and supplementary materials are available at the following link:[🔗 Appendix and Supplementry](https://github.com/Tianxiang-Hao/Urban1960SatSeg/blob/main/appendix and supplementary.pdf)
+The appendix and supplementary materials are available at the following link:[🔗 Appendix and Supplementry](https://github.com/Tianxiang-Hao/Urban1960SatSeg/blob/main/appendix_and_supplementary.pdf)
 
 ## 🌍 Overview
 
